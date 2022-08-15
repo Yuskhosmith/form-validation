@@ -3,7 +3,9 @@
 This is a client side validation. 
 
 ## .New 🌚
-- [x] Regex 
+- [x] Regex
+
+Regex 
 : Regular Expression.
 
 ```html

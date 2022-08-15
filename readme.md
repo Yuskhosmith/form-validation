@@ -3,7 +3,9 @@
 This is a client side validation. 
 
 ## .New 🌚
-### - [x] Regex 
+[x] Regex 
+: Regular Expression.
+
 ```html
 <input type="tel" id="phone" placeholder="09123456789" required pattern="[0-9]{11}">
 ```
